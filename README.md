@@ -1,3 +1,4 @@
-# Demo
+# My first website
 
-some description >!
+1- Thats a business website useing html,css (Flexbox)
+2- The website is fully responsive 
